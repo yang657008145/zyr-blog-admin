@@ -1,0 +1,5 @@
+deployment:
+  - name: blog-admin
+    type: docker
+    configVars:
+      - PORT: 9528
